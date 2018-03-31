@@ -23,9 +23,9 @@ Highly recommended! One of several bridges connecting Brooklyn and Manhattan. Be
 
 Five-minutes walk north of the Brooklyn Bridge in Manhattan, A GREAT neighborhood to just walk around and feel like you are in another world. VERY different, VERY unique, and VERY cheap. If you aren't feeling adventurous enough to eat a full meal there, at least check out one of the bakeries for some delicious pasteries. I can vouch for Lung Moon Bakery on Mulberry Street (Google it!). The little custard pies (center in pastry photo below) are AMAZING!
 
-![chinatown](./chinatown.jpg)
-![lungmoon2](./lungmoon2.jpg)
-![lungmoon1](./lungmoon1.jpg)
+<img src="./chinatown.jpg" width="100%">
+
+<img src="./lungmoon2.jpg" width="50%"><img src="./lungmoon1.jpg" width="50%">
 
 ### Recap Map
 
@@ -35,9 +35,7 @@ Five-minutes walk north of the Brooklyn Bridge in Manhattan, A GREAT neighborhoo
 
 If you have time and are feeling ok about riding the subway, you can head back uptown and check out another location that used to be shady but is now one of the nicest/safest places in NYC. Head to Grand Army Plaza in Manhattan (not Brooklyn) and then walk through the Park to the Bethesday Fountain, making sure to follow the path the leads down the Mall/Literary Walk.
 
-![bethesda](bethesda.jpg)
-![literary](./literary.jpg)
-
+<img src="./bethesda.jpg" width="50%"><img src="./literary.jpg" width="50%">
 
 ## How to use the subway
 
@@ -49,8 +47,5 @@ If you have time and are feeling ok about riding the subway, you can head back u
 
 ### Examples of using Google maps to navigate public transport
 
-![1](./1.jpg =100x200)
-![2](./2.jpg)
-![3](./3.jpg)
-![4](./4.jpg)
-![5](./5.jpg)
+<img src="./1.jpg" width="30%"> <img src="./2.jpg" width="30%"> <img src="./3.jpg" width="30%">
+<img src="./4.jpg" width="30%"> <img src="./5.jpg" width="30%">
