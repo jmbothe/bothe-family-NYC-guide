@@ -2,6 +2,14 @@
 
 ## Places to go, things to see
 
+### Free Indoor Options
+
+* Macy's Flower Show at Herald Square is free to enter
+* The American Natural History Museum is "pay-what-you-want", and its common to pay nothing. Just have to be confident when the ticket lady gives you a disapproving look :)
+* The Met Museum USED to be "pay-what-you-want", but now for out-of-towners, its free for children 12 and under. Adults $25.
+* Part of the world Trade Center is free to enter. Its called "The Oculus", and its like a mall, I think.
+* The Staten Island Ferry is still sort of "indoors". There is a below deck area, and the area outside is partially covered.
+
 ### Staten Island Ferry
 
 This is the free ferry that passes by the statue of liberty. It leaves from the Whitehall Ferry Terminal alllllll the way downtown in Manhattan. The round-trip is about an hour. It departs every ten or fifteen minutes. It looks like this:
